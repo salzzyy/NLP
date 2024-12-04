@@ -95,7 +95,7 @@ model.fit(X, X, epochs=100, verbose=0)
 # Predict
 predictions = model.predict(X)
 print(predictions)
-
+```
 
 ## Challenges in BPTT
 
